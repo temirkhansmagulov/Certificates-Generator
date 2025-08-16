@@ -2,7 +2,7 @@
 Generate Documents Based on template inside Google Sheets
 
 # Instructions
-1) Open: [Certificates Generator Spreadsheet]([url](https://docs.google.com/spreadsheets/d/14MEVZTWE9wdsxmjOI4Y_FqaTaz6sVmGO21nqvd4QFgI/edit?gid=0#gid=0))
+1) Open: Certificates Generator Spreadsheet (https://docs.google.com/spreadsheets/d/14MEVZTWE9wdsxmjOI4Y_FqaTaz6sVmGO21nqvd4QFgI/edit?gid=0#gid=0)
 2) Make your own copy to Google Drive
 3) Edit Templates in the **Settings** Sheet.
    - Basically, you need to make any DOCS type document with variable entries in curly braces {}
